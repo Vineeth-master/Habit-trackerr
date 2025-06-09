@@ -1,0 +1,5 @@
+db:
+  username: root
+  password: ""
+  hostname: 127.0.0.1:3306
+  dbname: mysql
